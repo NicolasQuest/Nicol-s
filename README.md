@@ -11,31 +11,9 @@ A passionate Full Stack Developer with a love for Music, and Technology
 
 ## 🛠 Technical Skills:
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-
-**Backend**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-
-**Testing**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-
-**Databases**  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
----
+(https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667)(https://camo.githubusercontent.com/34b891c76d258e4b0ee593443e5cbc2506cdbb7d3cd6bc0e4beffa87a9c1611b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667) (https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667)
+(https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667)(https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667)(https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667)(https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667)(https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667)(https://camo.githubusercontent.com/c8da84874bf4b45481b90c28439d69de5e10108d2916b567111ebd2a716ae3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f776f726470726573732f776f726470726573732d706c61696e2e737667)(https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667)
+(https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465)
 
 ## 📫 How to reach me:
 
