@@ -1,15 +1,15 @@
-<h1>Hi there 👋, I'm Nicolás!
-A passionate Full Stack Developer with a love for Music, and Technology </h1>
+# Hi there 👋, I'm Nicolás!
+A passionate Full Stack Developer with a love for Music, and Technology #
 
 
-# 🚀 About Me:
+## 🚀 About Me:
 
 -Full Stack Developer with experience in JavaScript, React, Python, SQL and more.
 -Background in the music industry and management, excelling in team collaboration, problem-solving, and adaptation in dynamic environments.
 -Passionate about learning, technology, and building innovative solutions to complex problems.
 -Always ready to take on new challenges, with a quick learning ability and a proactive mindset.
 
-# 🛠 Technical Skills:
+## 🛠 Technical Skills:
  
 <p align="left">
   
@@ -28,12 +28,12 @@ A passionate Full Stack Developer with a love for Music, and Technology </h1>
 
 How to reach me:  
  
-# Socials 🌐:
+## Socials 🌐:
 <a href="https://www.linkedin.com/in/nicolas-pasik" target="_blank" style="display: inline-block; transform: scale(1.5); margin: 10px;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-# 🎓 Education:
+## 🎓 Education:
 
 - **2025** 🏆 Full Stack Developer (4Geeks Academy - Madrid, España)  
 - **2017-2022** 🎼 Degree in Film Scoring (UCA - Buenos Aires, Argentina)
@@ -43,7 +43,7 @@ How to reach me:
 
 ---
 
-# 🌍 Languages:
+## 🌍 Languages:
 
 | Idioma | Nivel |
 |--------|-------|
