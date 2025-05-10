@@ -29,10 +29,9 @@ A passionate Full Stack Developer with a love for Music, and Technology
 How to reach me:  
  
 ## Socials 🌐:
-<a href="https://www.linkedin.com/in/nicolas-pasik" target="_blank">
+<a  height="60" href="https://www.linkedin.com/in/nicolas-pasik" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
----
 
 ## 🎓 Education:
 
