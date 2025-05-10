@@ -54,4 +54,5 @@ How to reach me:
 
 ---
 
-✨ **Fun Fact**: Before being a dev, I composed music for films and conducted an orchestra.! 🎹➡️💻
+## ✨ **Fun Fact**: 
+Before being a dev, I composed music for films and conducted an orchestra.! 🎹➡️💻
