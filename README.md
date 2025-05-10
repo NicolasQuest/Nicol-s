@@ -24,7 +24,7 @@ A passionate Full Stack Developer with a love for Music, and Technology #
   <img src="https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" height="42"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR21TGxoBCsmYTnKa9vUr2pf1lvRUmipgA58A&s" height="42"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="42"/>
-  <img src="https://ih1.redbubble.net/image.1298537473.3921/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" height="42"/>
+  <img src="https://cdn.creazilla.com/icons/3253956/jest-icon-original.svg" height="42"/>
    <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" height="42"/>
 </p>
 
