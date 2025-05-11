@@ -48,11 +48,11 @@ How to reach me:
 
 ## 🌍 Languages:
 
-| Idioma | Nivel |
+| Language | Level |
 |--------|-------|
-| Español | Nativo |
-| English | Avanzado |
-| Italiano | Básico |
+| Español | Native |
+| English | Advanced |
+| Italian | Basic |
 
 
 ---
