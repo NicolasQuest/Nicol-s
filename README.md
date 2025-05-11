@@ -4,10 +4,10 @@ A passionate Full Stack Developer with a love for Music, and Technology #
 
 ## 🚀 About Me:
 
--Full Stack Developer with experience in JavaScript, React, Python, SQL and more.
--Background in the music industry and management, excelling in team collaboration, problem-solving, and adaptation in dynamic environments.
--Passionate about learning, technology, and building innovative solutions to complex problems.
--Always ready to take on new challenges, with a quick learning ability and a proactive mindset.
+-Full Stack Developer with experience in JavaScript, React, Python, SQL and more. <br>
+-Background in the music industry and management, excelling in team collaboration, problem-solving, and adaptation in dynamic environments. <br>
+-Passionate about learning, technology, and building innovative solutions to complex problems. <br>
+-Always ready to take on new challenges, with a quick learning ability and a proactive mindset. <br>
 
 ## 🛠 Technical Skills:
  
