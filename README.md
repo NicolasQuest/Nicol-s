@@ -1,5 +1,3 @@
-![Hello There! GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 # Hi there 👋, I'm Nicolás!
 A passionate Full Stack Developer with a love for Music, and Technology #
 
