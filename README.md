@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Nicolás!
-A passionate Full Stack Developer with a love for Music, and Technology #
+A passionate Full Stack Developer with a love for Music, and Technology 
 
 
 ## 🚀 About Me:
