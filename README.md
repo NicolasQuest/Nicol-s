@@ -64,7 +64,7 @@ How to reach me:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicolasQuest)](https://git.io/streak-stats)
  --->
----
+
 
 ## ✨ **Fun Fact**: 
 Before being a dev, I composed music for films and conducted an orchestra.! 🎹➡️💻
