@@ -31,7 +31,7 @@ A passionate Full Stack Developer with love for Music, and Technology
    <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" height="44"/>
 </p>
 
----
+
 How to reach me:  
  
 ## Socials 🌐:
@@ -41,7 +41,7 @@ How to reach me:
 <a href="mailto:nicolaspasik1@gmail.com" target="_blank" style="display: inline-block; transform: scale(1.5); margin: 10px;">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-Mail"/>
 </a>
---- 
+
 ## 🎓 Education:
 
 - **2025** 🏆 Full Stack Developer (4Geeks Academy - Madrid, España)  
@@ -49,8 +49,7 @@ How to reach me:
 - **2017-2022** 🎼 Higher professorship in orchestral conducting (National Conservatory Manuel de Falla - Buenos Aires, Argentina)
 - **2010-2016** 📚 Technical bachelor's degree with a specialization on media (ORT - Buenos Aires, Argentina)
 - **2023** 🏆 Web Design (Coderhouse - Buenos Aires, Argentina)
-
----
+ <!--  ---    -->
 
 ## 🌍 Languages:
 
