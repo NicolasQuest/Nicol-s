@@ -60,7 +60,7 @@ How to reach me:
 | English | Advanced |
 | Italian | Basic |
 
----
+
 <!--- ## 🔥 GitHub Streak Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicolasQuest)](https://git.io/streak-stats)
